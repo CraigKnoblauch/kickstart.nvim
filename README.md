@@ -1,5 +1,8 @@
 # kickstart.nvim
 
+## References
+Intro video: https://www.youtube.com/watch?v=m8C0Cq9Uv9o
+
 ## Introduction
 
 A starting point for Neovim that is:
